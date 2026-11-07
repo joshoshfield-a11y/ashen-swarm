@@ -1,0 +1,25 @@
+{
+ "derived": {
+  "cinderling-death": "squash+dim+rot from walk-0",
+  "cinderling-hurt": "lean-10 from walk-1",
+  "cinderling-attack": "lunge-x1.30 from walk-3",
+  "brute-death": "squash+dim+rot from walk-0",
+  "brute-hurt": "lean-10 from walk-1",
+  "brute-attack": "lunge-x1.30 from walk-3",
+  "spitter-death": "squash+dim+rot from walk-0",
+  "spitter-hurt": "lean-10 from walk-1",
+  "hero-death": "squash+dim+rot-8 from hero-walk-0",
+  "dasher": "dasherize (x0.82/y1.12 + warm core) of cinderling walk; poses derived from dasher frames"
+ },
+ "terrain_edge": {
+  "terrain-ember-web": {
+   "left_right_mad": 0.0,
+   "top_bottom_mad": 0.0
+  },
+  "terrain-pale-drift": {
+   "left_right_mad": 0.0,
+   "top_bottom_mad": 0.0
+  }
+ },
+ "alpha_flagged": []
+}

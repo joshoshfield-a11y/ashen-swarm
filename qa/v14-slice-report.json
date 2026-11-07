@@ -1,0 +1,29 @@
+{
+ "portal": {
+  "opaque_frac": 0.5658,
+  "corners_transparent": true,
+  "corners": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "transition_strips": {
+  "size": [
+   512,
+   160
+  ],
+  "centre_alpha": 110,
+  "edge_alpha": 0
+ },
+ "seam_metric": {
+  "adjacent_differing_edges": 40,
+  "unblended_hard_edges_before": 40,
+  "transition_strips_after": 40,
+  "unblended_hard_edges_after": 0,
+  "blend_coverage": "40/40 = 100%",
+  "zone_edge_alpha_factor_before": 0.55,
+  "zone_edge_alpha_factor_after": 0.15
+ }
+}

@@ -1,0 +1,23 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+config/name="ASHEN SWARM"
+run/main_scene="res://scenes/Main.tscn"
+config/features=PackedStringArray("4.8", "GL Compatibility")
+config/icon="res://assets/sprites/icon.png"
+
+[display]
+window/size/viewport_width=720
+window/size/viewport_height=1280
+window/size/resizable=true
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+textures/vram_compression/import_etc2_astc=true
+textures/canvas_textures/default_texture_filter=0
+
+[debug]
+gdscript/warnings/unused_variable=0

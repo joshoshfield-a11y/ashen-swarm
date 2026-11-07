@@ -1,0 +1,132 @@
+{
+ "enemies": {
+  "cinderling-walk-0": {
+   "trimmed": [
+    282,
+    289
+   ],
+   "opaque_frac": 0.2872
+  },
+  "cinderling-walk-1": {
+   "trimmed": [
+    237,
+    294
+   ],
+   "opaque_frac": 0.2862
+  },
+  "cinderling-walk-2": {
+   "trimmed": [
+    294,
+    302
+   ],
+   "opaque_frac": 0.2787
+  },
+  "cinderling-walk-3": {
+   "trimmed": [
+    260,
+    313
+   ],
+   "opaque_frac": 0.2464
+  },
+  "brute-walk-0": {
+   "trimmed": [
+    408,
+    401
+   ],
+   "opaque_frac": 0.3394
+  },
+  "brute-walk-1": {
+   "trimmed": [
+    381,
+    393
+   ],
+   "opaque_frac": 0.375
+  },
+  "brute-walk-2": {
+   "trimmed": [
+    398,
+    400
+   ],
+   "opaque_frac": 0.3414
+  },
+  "brute-walk-3": {
+   "trimmed": [
+    419,
+    410
+   ],
+   "opaque_frac": 0.359
+  },
+  "spitter-walk-0": {
+   "trimmed": [
+    345,
+    294
+   ],
+   "opaque_frac": 0.2359
+  },
+  "spitter-walk-1": {
+   "trimmed": [
+    363,
+    315
+   ],
+   "opaque_frac": 0.2163
+  },
+  "spitter-walk-2": {
+   "trimmed": [
+    394,
+    296
+   ],
+   "opaque_frac": 0.2112
+  },
+  "spitter-walk-3": {
+   "trimmed": [
+    411,
+    371
+   ],
+   "opaque_frac": 0.2042
+  }
+ },
+ "boss": {
+  "boss-walk-0": {
+   "trimmed": [
+    409,
+    571
+   ],
+   "opaque_frac": 0.1667
+  },
+  "boss-walk-1": {
+   "trimmed": [
+    413,
+    574
+   ],
+   "opaque_frac": 0.1704
+  },
+  "boss-walk-2": {
+   "trimmed": [
+    412,
+    567
+   ],
+   "opaque_frac": 0.1759
+  },
+  "boss-walk-3": {
+   "trimmed": [
+    412,
+    560
+   ],
+   "opaque_frac": 0.17
+  },
+  "boss-telegraph": {
+   "trimmed": [
+    523,
+    589
+   ],
+   "opaque_frac": 0.1965
+  },
+  "boss-death": {
+   "trimmed": [
+    551,
+    421
+   ],
+   "opaque_frac": 0.1531
+  }
+ }
+}
